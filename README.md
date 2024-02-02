@@ -132,3 +132,5 @@ displayplacer "id:37D8832A-2D66-02CA-B9F7-8F30A301B230 res:1800x1169 hz:120 colo
 12) Save file `Screen rotate.workflow`
 13) Choose Apple menu  > System Settings, click Keyboard  in the sidebar, then click Keyboard Shortcuts on the right. Click Services, then select `Screen rotate` and set hotkey for it.
 14) Done.
+
+![Preview](https://github.com/vladrunk/Screen-Rotate-MacOS/assets/37048171/880c0540-ae00-4bdc-b018-6decfebfd65c)
